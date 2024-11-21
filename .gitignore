@@ -1,0 +1,17 @@
+# Ignore virtual environments
+myenv/
+
+# Ignore datasets
+Dataset/
+
+# Ignore saved models
+Saved_Models/
+
+# Ignore large binary files
+*.dll
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
